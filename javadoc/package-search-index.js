@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"de.flashyboi.minecraft.plugins.statisticswebserver"},{"l":"de.flashyboi.minecraft.plugins.statisticswebserver.config"},{"l":"de.flashyboi.minecraft.plugins.statisticswebserver.exceptions"},{"l":"de.flashyboi.minecraft.plugins.statisticswebserver.util"}];updateSearchResults();

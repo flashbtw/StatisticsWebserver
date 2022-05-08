@@ -4,3 +4,19 @@ main: de.flashyboi.minecraft.plugins.statisticswebserver.StatisticsWebserver
 api-version: 1.18
 authors: [ flash_btw ]
 website: https://flash-codes.de
+depend:
+  - FlashLib
+
+commands:
+  statisticswebserver:
+    aliases: [statwebserver, statwebsrv, stwebsrv, stsrv]
+    permission: statisticswebserver.command
+    description: "Usage: /statisticswebserver [reload]"
+
+permissions:
+  statisticswebserver.command:
+    description: allow to use the /statisticswebserver command
+  statisticswebserver.tabcomplete:
+    description: allow to tabcomplete on /statisticswebserver commands
+  statisticswebserver.reload:
+    description: allow to use the /statisticswebserver reload command

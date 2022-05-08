@@ -1,0 +1,12 @@
+#StatisticsWebserver Config
+
+#DON'T TOUCH THIS
+version: 1
+
+debug-log: false
+
+Webserver-Config:
+  # leave host as is if you don't know what you do.
+  # maybe ask your server provider if you aren't sure.
+  host: '0.0.0.0'
+  port: 7272

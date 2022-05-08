@@ -4,4 +4,9 @@ public class PlayerNotFoundException extends Exception{
     public PlayerNotFoundException() {
         super();
     }
+
+    public PlayerNotFoundException(String errorMessage) {
+        super(errorMessage);
+    }
 }
+
